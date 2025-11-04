@@ -1,4 +1,4 @@
-<h1 align="center">hello, i'm Syrup</h1>
+<h1 align="center">hello, i'm Tune</h1>
 <h3 align="center">A developer that forgets things a lot.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
